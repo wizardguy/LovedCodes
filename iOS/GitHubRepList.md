@@ -11,3 +11,4 @@
 
 ## Utility
 - [STUtils](https://github.com/ldandersen)
+- [LayerSprites](https://github.com/nicklockwood/LayerSprites)
