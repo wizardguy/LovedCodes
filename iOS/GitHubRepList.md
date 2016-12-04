@@ -16,3 +16,4 @@
 
 ## Animation
 - [GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html)
+- [Waves in Label Mask Layer](https://github.com/liangwei518/WaterWave) A demo shows wave effect in a label mask layer, using UIBezierPath, CAShapeLayer and CADisplayLink.
